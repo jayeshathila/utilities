@@ -1,2 +1,2 @@
 # utilities
-Utility functionalities
+Repo to share small utility functions.
